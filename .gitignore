@@ -1,0 +1,9 @@
+# Windows-Temp-Dateien
+Thumbs.db
+*.log
+
+# VS Code
+.vscode/
+
+# PowerShell-History
+*.history
